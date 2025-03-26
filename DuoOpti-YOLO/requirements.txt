@@ -1,0 +1,5 @@
+torch>=1.13
+opencv-python
+matplotlib
+yaml
+ultralytics

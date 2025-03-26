@@ -1,0 +1,8 @@
+train:
+  epochs: 100
+  batch: 8
+  imgsz: 640
+  optimizer: SGD
+  lr0: 0.01
+  momentum: 0.937
+  weight_decay: 0.0005
